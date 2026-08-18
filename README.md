@@ -12,6 +12,14 @@ A comprehensive, production-ready boilerplate for building professional Framer p
 - **Modern Stack** - React 18, TypeScript, Tailwind CSS, Framer Motion
 - **Developer Experience** - Hot reload, TypeScript, ESLint, and more
 
+# Framer Plugin Boilerplate
+
+A comprehensive, production-ready boilerplate for building professional Framer plugins with authentication, payments, analytics, and a complete UI component library.
+
+> **Building a UI kit instead of a feature plugin?** This boilerplate handles auth, payments and analytics — but selling a component library needs a catalog, categories, search, and per-component gating too. Check out the **[UI Kit Boilerplate ($49.99)](https://buy.polar.sh/polar_cl_zd1dvfD7O9sAMSr83uGhwgG2OuzmmaremI6BX2lBSVZ)** — same stack, purpose-built for that.
+
+## Features
+
 ## Quick Start
 
 ### Prerequisites
@@ -463,8 +471,13 @@ The app includes a global error boundary that catches React component errors and
 ## Author
 
 **Your Name**
-- Twitter: [@yourhandle](https://x.com/yourhandle)
-- Website: [your-website.com](https://your-website.com/)
+- Twitter: (https://x.com/_syedsaboor)
+- Framer Profile: (https://www.framer.com/@syed-saboor/)
+
+## Selling a Component Library?
+
+If you're building a UI kit plugin rather than a feature plugin, this repo won't give you a component catalog, search, favorites, or per-component free/paid gating — that's a different set of screens. The **[UI Kit Boilerplate](https://buy.polar.sh/polar_cl_zd1dvfD7O9sAMSr83uGhwgG2OuzmmaremI6BX2lBSVZ)** ($49.99, one-time) is built on this same foundation with all of that added.
+
 
 ## License
 
