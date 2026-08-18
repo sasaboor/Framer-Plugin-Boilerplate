@@ -33,7 +33,7 @@ A comprehensive, production-ready boilerplate for building professional Framer p
 1. **Clone or download this repository**
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/sasaboor/Framer-Plugin-Boilerplate.git)
 cd framer-plugin-boilerplate
 ```
 
