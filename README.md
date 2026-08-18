@@ -470,7 +470,10 @@ The app includes a global error boundary that catches React component errors and
 
 ## Author
 
-**Your Name**
+**Syed Saboor** — I build and sell Framer plugins; this boilerplate is the exact stack behind them, including [Template Checker](https://www.framer.com/marketplace/plugins/template-checker/), live on the Framer marketplace. **6,000+ combined users** across my published plugins.
+
+**Want your plugin built instead of DIY'd?** I take on a limited number of client builds. Email me: [syedsaboor005@gmail.com](mailto:syedsaboor005@gmail.com)
+
 - Twitter: (https://x.com/_syedsaboor)
 - Framer Profile: (https://www.framer.com/@syed-saboor/)
 
