@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fallbacks for Framer color variables (light theme) */
+:root {
+  --framer-color-bg: #ffffff;
+  --framer-color-bg-primary: var(--framer-color-bg);
+  --framer-color-bg-secondary: #f7f7f8;
+  --framer-color-bg-tertiary: #f1f2f4;
+  --framer-color-text-primary: #0f172a; /* slate-900 */
+  --framer-color-text-secondary: #475569; /* slate-600 */
+  --framer-color-text-tertiary: #94a3b8; /* slate-400 */
+  --framer-color-text-reversed: #ffffff;
+  --framer-color-divider: #e5e7eb; /* gray-200 */
+  --framer-color-accent: #0099FF; /* Framer blue */
+  /* Primary tint colors used by framer-button-primary */
+  --framer-color-tint: #0099FF;
+  --framer-color-tint-dark: #0088EE;
+  --framer-color-tint-extra-dark: #0077ff;
+}
+
+/* Fallbacks for Framer color variables (dark theme) */
+[data-framer-theme='dark'], .dark {
+  --framer-color-bg: #0b0b0b;
+  --framer-color-bg-primary: var(--framer-color-bg);
+  --framer-color-bg-secondary: #121212;
+  --framer-color-bg-tertiary: #1a1a1a;
+  --framer-color-text-primary: #e5e7eb; /* gray-200 */
+  --framer-color-text-secondary: #a1a1aa; /* zinc-400 */
+  --framer-color-text-tertiary: #71717a; /* zinc-500 */
+  --framer-color-text-reversed: #0b0b0b;
+  --framer-color-divider: #27272a; /* zinc-800 */
+  --framer-color-accent: #0099FF; /* Framer blue */
+  /* Primary tint colors used by framer-button-primary */
+  --framer-color-tint: #0099FF;
+  --framer-color-tint-dark: #0088EE;
+  --framer-color-tint-extra-dark: #0077ff;
+}
+
+/* Hide scrollbars while keeping scroll functionality */
+::-webkit-scrollbar {
+  display: none;
+}
+
+html, body {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}

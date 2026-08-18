@@ -1,0 +1,68 @@
+# Environment Variables (NEVER commit these!)
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build Output
+dist/
+dist-ssr/
+*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor Directories and Files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Testing
+coverage/
+*.lcov
+.nyc_output
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Supabase
+.supabase/
+supabase/.branches
+supabase/.temp
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Production
+build/
+
+# Misc
+.turbo
+
+# Claude Code local settings (machine-specific)
+.claude/settings.local.json

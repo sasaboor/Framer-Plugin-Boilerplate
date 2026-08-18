@@ -1,0 +1,7 @@
+/* Ensure accordion lists stack and don't overlap */
+.accordion-vertical {
+  display: flex;
+  flex-direction: column;
+}
+
+

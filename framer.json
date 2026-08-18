@@ -1,0 +1,8 @@
+{
+  "id": "your-plugin-id",
+  "name": "Framer Plugin Boilerplate",
+  "author": "Your Name",
+  "modes": ["canvas"],
+  "icon": "/tclogo2.png",
+  "description": "A comprehensive Framer plugin boilerplate with authentication, navigation, analytics, and a complete UI component library. Ready to customize and build your own plugin."
+}

@@ -1,0 +1,26 @@
+# Supabase CLI Configuration
+# Minimal configuration for remote project linking
+#
+# Get your project ID from: https://supabase.com/dashboard/project/YOUR_PROJECT/settings/general
+
+project_id = "YOUR_PROJECT_ID"
+
+[api]
+enabled = true
+port = 54321
+
+[db]
+port = 54322
+major_version = 17
+
+[studio]
+enabled = true
+port = 54324
+
+[auth]
+enabled = true
+site_url = "http://localhost:3000"
+enable_signup = true
+
+[auth.email]
+enable_signup = true
