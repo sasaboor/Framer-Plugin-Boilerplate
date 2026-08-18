@@ -12,7 +12,7 @@ A comprehensive, production-ready boilerplate for building professional Framer p
 - **Modern Stack** - React 18, TypeScript, Tailwind CSS, Framer Motion
 - **Developer Experience** - Hot reload, TypeScript, ESLint, and more
 
-# Framer Plugin Boilerplate
+# UI Kit/Component Library Plugin Boilerplate
 
 A comprehensive, production-ready boilerplate for building professional Framer plugins with authentication, payments, analytics, and a complete UI component library.
 
